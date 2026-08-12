@@ -1,6 +1,9 @@
 # HIROHIKO ARAKI WEBSITE
 This is a website that displays information about jjba author hirohiko araki with a shop feature that sells merch. This was a website made as my final assignment for my web development module. They main point was to design a website for an artist you liked while meeting the specified requirements (e.g., must be 5 pages long, must containing shop). This website was made with 5 user personas in mind each their own personal needs. Some users has visual impairments and others wanted to perform specific tasks. I had to consider all these personas when making my website so accommodate for people of many different backgrounds. Some ways I did this was by choosing specific easy to read fonts, keeping backgrounds simple with a colour that was not harsh on the eyes, having alt text on all my images in case people are using screen readers and more. 
 
+If you would like to download the code and see the website on your machine you will need to create a MYSQL database. In the docs file there is an sql script that you can run on your phpadmin mysql server to add the necessary tables and information. In the inc/db file enter your database details such as the server name, password and username so that a connection can be made. You may load this from your environment variables. 
+
+
 ## LESSONS LEARNED
 From this project I have learned how to create  a website that interacts with a database and stores information. I learned how to use php to query the database and display information once a response was given. I learned about GET and POST requests and when its better to use one over the other for added security. I learned how effective certain design choices can be such as placing the shop first in the navigation bar so that more users press and buy. 
 
