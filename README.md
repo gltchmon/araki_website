@@ -1,7 +1,7 @@
-# araki_website
+# HIROHIKO ARAKI WEBSITE
 website made dedicated to jjba author hirohiko araki with a shop feature
 
-#HOME
+# HOME
 
 Demo video: https://mega.nz/file/fMZy0BbT#K5mDNbpfDqIxvcYX_ahN5EXQAmzMiAd-omx25kMUjwg
 
