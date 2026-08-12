@@ -2,7 +2,9 @@
 This is a website that displays information about jjba author hirohiko araki with a shop feature that sells merch. This was a website made as my final assignment for my web development module. They main point was to design a website for an artist you liked while meeting the specified requirements (e.g., must be 5 pages long, must containing shop). This website was made with 5 user personas in mind each their own personal needs. Some users has visual impairments and others wanted to perform specific tasks. I had to consider all these personas when making my website so accommodate for people of many different backgrounds. Some ways I did this was by choosing specific easy to read fonts, keeping backgrounds simple with a colour that was not harsh on the eyes, having alt text on all my images in case people are using screen readers and more. 
 
 ## LESSONS LEARNED
-From this project I have learned how to create  a website that interacts with a database and stores information. I learned how to use php to query the database and display information once a response was given. I learned about GET and POST requests and when its better to use one over the other for added security. I learned about maintaining website and database security by regulating user inputs and how certain data like passwords need to be stored. Lastly making this project has taught me how to listen and meet user requirements and accommodate for many different types of people. It made me aware of what certain people may need from my website and why some functionalities like auto scrolling may not be user friendly. 
+From this project I have learned how to create  a website that interacts with a database and stores information. I learned how to use php to query the database and display information once a response was given. I learned about GET and POST requests and when its better to use one over the other for added security. I learned how effective certain design choices can be such as placing the shop first in the navigation bar so that more users press and buy. 
+
+I learned about maintaining website and database security by regulating user inputs and how certain data like passwords need to be stored. Lastly making this project has taught me how to listen and meet user requirements and accommodate for many different types of people. It made me aware of what certain people may need from my website and why some functionalities like auto scrolling may not be user friendly. 
 
 # HOME
 
@@ -50,8 +52,9 @@ Before users can checkout they must be logged in. Each delivery option changes t
 
 <img width="1913" height="852" alt="image" src="https://github.com/user-attachments/assets/fe8e6221-d57e-472f-b193-0f8b1c886a02" />
 
+# REFLECTION AND FURTHER IMPROVEMENTS
 
-
+The main improvement for this website is making it responsive so that it responds well on all devices. While this was not a requirement for the assignment it is still very important as a lot of users may want to access this website on smaller devices. The database could also be extended to hold information about what users have bought so that a history can be displayed. Further security and authentication can be made to prevent others from accessing sensitive information. The design of the website could be improved with better alignment specifically in the gallery when it is seen from smaller devices and a better looking landing page as it is the first impression users have. 
 
 
 
